@@ -62,6 +62,10 @@ li, p, td {
     color: #B5B5B5;
 }
 
+#refrigerator {
+    text-align: center;
+}
+
 h1, h2 {
     text-align: center;
     font-family: Georgia, serif;
