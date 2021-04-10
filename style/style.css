@@ -44,7 +44,7 @@ body {
     margin: auto;
     width: 50%;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
 }
 
 #content div {
@@ -78,3 +78,13 @@ a:visited {
 a:hover {
     color: #ff8f9e;
 }
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #2E302D;
+    color: #B5B5B5;
+    text-align: center;
+  }
